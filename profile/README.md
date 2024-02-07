@@ -1,6 +1,6 @@
-# 👏 Hi, this is the frontend department of Echo Technology
+# 👏 Hi. This is the Frontend Department of Echo Technology
 
-We build frontend projects using Vue, React, and Svelte. We have developed a variety of WeChat mini programs such as '千岛潮玩族', '奇货', '米花星球', along with the AIGC projects [TensorArt](https://tensor.art?utm_source=echotechfe), and [吐司](https://tusiart.com?utm_source=echotechfe).
+We build frontend projects using Vue, React, and Svelte. We have developed a variety of Wechat Mini Programs such as '千岛潮玩族', '奇货', '米花星球', along with the AIGC projects [TensorArt](https://tensor.art?utm_source=echotechfe), and [吐司](https://tusiart.com?utm_source=echotechfe).
 
 Our working hours are from Monday to Friday, from 10 a.m. to 7 p.m. Beijing time. We are located in the Putuo District of Shanghai.
 
